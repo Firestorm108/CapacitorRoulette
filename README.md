@@ -6,10 +6,10 @@ This is achieved by overvolting the capacitors by +40V and putting them in rever
 
 ![IMG_3039](https://github.com/user-attachments/assets/cf082fff-f7a7-463e-b367-7629400e200c)
 
-BOM:
-Assorted sub 10V Capacitors under 500uF
-Orpheous Pico
-6s 9V Battery Pack
+BOM: /n
+Assorted sub 10V Capacitors under 500uF /n
+Orpheous Pico /n
+6s 9V Battery Pack /n
 3x Transistors
 2x Button
 1x OLED Screen
