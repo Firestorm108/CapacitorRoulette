@@ -6,14 +6,25 @@ This is achieved by overvolting the capacitors by +40V and putting them in rever
 
 ![IMG_3039](https://github.com/user-attachments/assets/cf082fff-f7a7-463e-b367-7629400e200c)
 
-BOM: /n
-Assorted sub 10V Capacitors under 500uF /n
-Orpheous Pico /n
-6s 9V Battery Pack /n
+![IMG_3040](https://github.com/user-attachments/assets/4da5c1b2-dbe1-4905-9935-808b9b33b737)
+
+BOM: 
+
+Assorted sub 10V Capacitors under 500uF 
+
+Orpheous Pico 
+
+6s 9V Battery Pack 
+
 3x Transistors
+
 2x Button
+
 1x OLED Screen
-1x Servo
+
+3x Servo
+
+1x Relay (ideally 3 but I made my own relays using servos coated with copper tape)
+
 1x 7k and 2k resistors
 
-![IMG_3040](https://github.com/user-attachments/assets/4da5c1b2-dbe1-4905-9935-808b9b33b737)
