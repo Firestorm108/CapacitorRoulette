@@ -4,6 +4,9 @@ It explodes huge capacitors as the roulette function, kind of like russian roule
 
 This is achieved by overvolting the capacitors by +40V and putting them in reverse polarity!
 
+Demo: https://www.youtube.com/shorts/nf6ZUFn29NY
+
+
 ![IMG_3039](https://github.com/user-attachments/assets/cf082fff-f7a7-463e-b367-7629400e200c)
 
 ![IMG_3040](https://github.com/user-attachments/assets/4da5c1b2-dbe1-4905-9935-808b9b33b737)
@@ -27,4 +30,7 @@ Orpheous Pico
 1x Relay (ideally 3 but I made my own relays using servos coated with copper tape)
 
 1x 7k and 2k resistors
+
+
+
 
